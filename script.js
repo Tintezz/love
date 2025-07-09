@@ -13,7 +13,7 @@ noBtn.addEventListener("mouseover", () => {
     noBtn.style.top = `${newY}px`;
 
     // Khi bấm "No", đổi hình mèo buồn
-    chibiCat.src = "sad_cat.png";
+    chibiCat.src = "sad_cat.jpg";
     chibiCat.style.transform = "scale(0.9)"; // Làm nhỏ hình mèo
 });
 
